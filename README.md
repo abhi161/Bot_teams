@@ -1,2 +1,1 @@
-# Bot_teams
-s
+# SMm_psi_bot
